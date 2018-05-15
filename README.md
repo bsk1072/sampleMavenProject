@@ -1,7 +1,5 @@
 # Spring Boot, Maven and Concourse
 
-## Setup
-
 ### Prerequisites
 
 ```bash
